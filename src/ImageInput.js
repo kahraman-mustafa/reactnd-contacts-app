@@ -61,7 +61,7 @@ class ImageInput extends React.Component {
         })
       })
     } else {
-      this.setState({ value: '' })
+      //this.setState({ value: '' })
     }
   }
 
